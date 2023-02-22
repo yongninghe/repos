@@ -5,4 +5,4 @@ spring:
     password: 123456
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: org.postgresql.Driver
-    separator: //111
+    separator: //
